@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How do URL shorteners work?",
+    "answer": "URL shorteners work by taking a long URL and generating a shorter alias for it. They maintain a database that maps the short alias to the original URL. When someone clicks on the short link, the service looks up the alias in its database and redirects the user to the corresponding long URL."
+  },
+  {
+    "question": "Are URL shorteners safe to use?",
+    "answer": "Shortify, a reputable URL shortening service, prioritizes safety. However, it's important to exercise caution when clicking on short links, especially those from unknown sources. Malicious actors may exploit URL shorteners to disguise harmful links. To enhance security, consider using a link preview service or an antivirus scanner if you're uncertain about a short link's destination."
+  },
+  {
+    "question": "Can I customize the alias for a shortened URL?",
+    "answer": "Absolutely! Shortify allows users to customize the alias or the keyword part of a short URL. This feature not only makes your links more meaningful but also aligns them with your brand. Keep in mind that popular or common keywords may already be in use."
+  },
+  {
+    "question": "Does Shortify provide analytics?",
+    "answer": "Yes, Shortify offers comprehensive analytics tools to track the performance of your shortened links. These analytics include data on the number of clicks each link receives, the sources of these clicks, and other valuable insights. These insights help you assess the effectiveness of your Shortify links in marketing campaigns."
+  },
+  {
+    "question": "Are there any limitations to URL shorteners?",
+    "answer": "Like many URL shortening services, Shortify may have certain limitations, such as link expiration, usage limits for free accounts, and restrictions on certain types of content. It's crucial to review Shortify's terms of service to understand any specific limitations that may apply to your use of the service."
+  }
+]
